@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: madbuda
+          user: lludlow
           template: terminal
           filename: metrics.terminal.svg
           base: header, activity, community, repositories, metadata
