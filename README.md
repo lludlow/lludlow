@@ -27,7 +27,6 @@ I'm a core contributor/maintainer across these official projects:
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
-
 ### 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=lludlow&theme=dark&hide_border=true&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lludlow&layout=compact&theme=dark&hide_border=true)
@@ -35,3 +34,5 @@ I'm a core contributor/maintainer across these official projects:
 ### 🌐 Connect
 - [Website & Blog](https://larryludlow.com)
 - [Email](mailto:larry@larryludlow.com) (or whatever you prefer)
+
+<image-card alt="Profile views" src="https://komarev.com/ghpvc/?username=lludlow&color=0E8A6E&style=for-the-badge" ></image-card>
