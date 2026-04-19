@@ -29,8 +29,8 @@ I'm a core contributor/maintainer across these official projects:
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=lludlow&theme=radical&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lludlow&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=lludlow&theme=dark&hide_border=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lludlow&layout=compact&theme=dark&hide_border=true)
 
 ### 🌐 Connect
 - [Website & Blog](https://larryludlow.com)
