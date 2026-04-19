@@ -35,4 +35,5 @@ I'm a core contributor/maintainer across these official projects:
 - [Website & Blog](https://larryludlow.com)
 - [Email](mailto:larry@larryludlow.com) (or whatever you prefer)
 
-<image-card alt="Profile views" src="https://komarev.com/ghpvc/?username=lludlow&color=0E8A6E&style=for-the-badge" ></image-card>
+
+![Profile views](https://komarev.com/ghpvc/?username=lludlow&color=0E8A6E&style=for-the-badge)
